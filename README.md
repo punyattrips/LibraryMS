@@ -1,1 +1,1 @@
-# Library Management System (C Programming)
+# Library Management System (C)
